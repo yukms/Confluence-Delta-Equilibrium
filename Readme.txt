@@ -12,3 +12,8 @@ estimate the erosion coefficient alpha of the Nakdong river.
 predict the other confluence deltas in Nakdong river.
 
 
+4. alpha_model_simulation
+
+it simulates the Gam-Nakdong confluence delta using the Qw records of tributary and main channel (gam_qs_gumi_Qw.xlsx)
+
+
